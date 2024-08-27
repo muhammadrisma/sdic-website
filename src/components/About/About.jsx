@@ -1,5 +1,5 @@
 import "./About.css"
-import about_img from "../../assets/about.jpg"
+import about_img from "/assets/about.jpg"
 
 
 const About = ({setPlayerState}) => {

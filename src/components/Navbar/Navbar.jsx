@@ -2,7 +2,7 @@ import "./Navbar.css"
 import { useState } from "react"
 import { useEffect } from "react"
 import { Link } from "react-scroll"
-import menu_icon from "../../assets/menu-icon.png"
+import menu_icon from "/assets/menu-icon.png"
 const Navbar = () => {
   const [sticky,setSticky] = useState(false)
   useEffect(() => {
