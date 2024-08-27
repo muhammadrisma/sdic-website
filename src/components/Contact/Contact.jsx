@@ -49,7 +49,7 @@ const Contact = () => {
                 <ul>
                     <li><img src={mail_icon} alt="" />ayangnuranita72@guru.sd.belajar.id</li>
                     <li><img src={phone_icon} alt="" />(+62) 857-5390-0268</li>
-                    <li><img src={location_icon} alt="" />Kedamin Hilir, Putussibau Selatan, Kabupaten Kapuas Hulu, Kalimantan Barat 78753 <br />
+                    <li><img src={location_icon} alt="" />Kedamin Hilir, Putussibau Selatan, Kabupaten Kapuas Hulu, Kalimantan Barat 78715 <br />
                         Indonesia
                     </li>
                 </ul>
